@@ -1,4 +1,4 @@
-const close = document.querySelector('#close');
+    const close = document.querySelector('#close');
 
     const container = document.querySelector('.containerT');
 

@@ -30,11 +30,13 @@ h5{
    top: 0;
    padding-top: 50px;
    transition: all .3s linear;
+   z-index: 17;
 }
 
 .menuT ul{
   margin-top: 100px;
   position: relative;
+  
 }
 
 ul li a{
@@ -42,8 +44,8 @@ ul li a{
    color: #FFA50090;
    font-size: 15pt;
    display: flex;
-   z-index: 2;
    font-weight: bold;
+   z-index: 18;
 }
 ul li:hover a{
  color: #FFA500;
